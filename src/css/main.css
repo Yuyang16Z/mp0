@@ -1,1 +1,24 @@
 /* Your CSS here. */
+  body {
+    font-family: italic, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    color: blue;
+    font-size: large;
+  }
+
+  h1 {
+    color: steelblue;
+  }
+
+  img {
+    max-width: 500px;
+    border-radius: 8px;
+  }
+
+  .text {
+  color: blue;
+  font-weight: bold;
+  font-style: italic;
+  font-size: large;
+  }
